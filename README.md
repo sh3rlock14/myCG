@@ -1,4 +1,8 @@
 # myCG
+
+ELENCO DEI PERCORSI PER ACCEDERE AGLI ESERCIZI. 
+nota: alcuni degli esercizi richiedono le funzioni presenti nelle sottocartelle della cartella "functions"
+
 04-LinAlg2: functions/fL2/symX.m     (Linear maps)
 
 
